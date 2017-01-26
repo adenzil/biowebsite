@@ -59,7 +59,7 @@ body h1,h2,h3,h4,h5,h6{
 	display:inline-block;
 }
 .navigation-right ul li a{
-	color:#fff;
+	color:burlywood;
     font-size:1em;
     text-decoration: none;
     padding: 10px 0;
@@ -474,7 +474,7 @@ span.border.one:after {
 	    float: left;
 	padding:0;
 	background:url(../images/about-pic.jpg) no-repeat 0px 0px;
-	min-height:580px;
+	min-height:630px;
 	background-size: cover;
    -o-background-size: cover;
    -webkit-background-size: cover;
@@ -1367,7 +1367,7 @@ span.border.two:after {
 	}
 	.about-right {
     float: none;
-    min-height: 517px;
+    min-height: 630px;
 	}
 	.about-left {
 		padding: 3em 0 3em 0;
